@@ -12,7 +12,7 @@ Aplikasi web sederhana untuk mengunggah gambar nota (JPG, PNG, atau PDF) dan mem
 
 ## 🖼️ Screenshot
 
-on progres !!!!!!!!
+![Form Upload](gb1.png)
 
 
 ## 🚀 Cara Pakai
