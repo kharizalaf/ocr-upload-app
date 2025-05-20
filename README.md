@@ -13,6 +13,9 @@ Aplikasi web sederhana untuk mengunggah gambar nota (JPG, PNG, atau PDF) dan mem
 ## 🖼️ Screenshot
 
 ![Form Upload](gb1.png)
+![Form Upload](1000181767.jpg)
+![Form Upload](1000181762.jpg)
+
 
 
 ## 🚀 Cara Pakai
