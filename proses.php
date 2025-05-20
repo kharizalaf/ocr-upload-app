@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['nota'])) {
         copy($tmp_name, $tmp_with_ext);
 
         // OCR.Space API
-        $api_key = 'K81426622388957'; // Ganti jika perlu
+        $api_key = 'xxxxxxxxxxx'; // Ganti Denag API millik mu
         $url = 'https://api.ocr.space/parse/image';
 
         $post_fields = [
